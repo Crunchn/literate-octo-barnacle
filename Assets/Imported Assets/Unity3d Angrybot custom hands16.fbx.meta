@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: a77a2061ee6019246973c26b70c17344
+timeCreated: 1468273156
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Base Thumb Bone.L
+    100004: Base Thumb Bone.R
+    100006: Chest
+    100008: Gun
+    100010: Gun Armature
+    100012: Holder
+    100014: Holder_end
+    100016: Index Finger Base.L
+    100018: Index Finger Base.R
+    100020: Index Tip Bone.L
+    100022: Index Tip Bone.L_end
+    100024: Index Tip Bone.R
+    100026: Index Tip Bone.R_end
+    100028: Long Finger Base.L
+    100030: Long Finger Base.R
+    100032: Long Tip Bone.L
+    100034: Long Tip Bone.L_end
+    100036: Long Tip Bone.R
+    100038: Long Tip Bone.R_end
+    100040: Lower Arm.L
+    100042: Lower Arm.R
+    100044: Middle Index Bone.L
+    100046: Middle Index Bone.R
+    100048: Middle Long Bone.L
+    100050: Middle Long Bone.R
+    100052: Middle Pinky Bone.L
+    100054: Middle Pinky Bone.R
+    100056: Middle Ring Bone.L
+    100058: Middle Ring Bone.R
+    100060: Middle Thumb Bone.L
+    100062: Middle Thumb Bone.R
+    100064: Pinky Finger Base.L
+    100066: Pinky Finger Base.R
+    100068: Pinky Tip Bone.L
+    100070: Pinky Tip Bone.L_end
+    100072: Pinky Tip Bone.R
+    100074: Pinky Tip Bone.R_end
+    100076: Player Mesh
+    100078: Ring Finger Base.L
+    100080: Ring Finger Base.R
+    100082: Ring Tip Bone.L
+    100084: Ring Tip Bone.L_end
+    100086: Ring Tip Bone.R
+    100088: Ring Tip Bone.R_end
+    100090: Thumb Tip Bone.L
+    100092: Thumb Tip Bone.L_end
+    100094: Thumb Tip Bone.R
+    100096: Thumb Tip Bone.R_end
+    100098: Trigger
+    100100: Trigger_end
+    100102: //RootNode
+    100104: Upper Arm.L
+    100106: Upper Arm.R
+    100108: Wrist.L
+    100110: Wrist.R
+    400000: Armature
+    400002: Base Thumb Bone.L
+    400004: Base Thumb Bone.R
+    400006: Chest
+    400008: Gun
+    400010: Gun Armature
+    400012: Holder
+    400014: Holder_end
+    400016: Index Finger Base.L
+    400018: Index Finger Base.R
+    400020: Index Tip Bone.L
+    400022: Index Tip Bone.L_end
+    400024: Index Tip Bone.R
+    400026: Index Tip Bone.R_end
+    400028: Long Finger Base.L
+    400030: Long Finger Base.R
+    400032: Long Tip Bone.L
+    400034: Long Tip Bone.L_end
+    400036: Long Tip Bone.R
+    400038: Long Tip Bone.R_end
+    400040: Lower Arm.L
+    400042: Lower Arm.R
+    400044: Middle Index Bone.L
+    400046: Middle Index Bone.R
+    400048: Middle Long Bone.L
+    400050: Middle Long Bone.R
+    400052: Middle Pinky Bone.L
+    400054: Middle Pinky Bone.R
+    400056: Middle Ring Bone.L
+    400058: Middle Ring Bone.R
+    400060: Middle Thumb Bone.L
+    400062: Middle Thumb Bone.R
+    400064: Pinky Finger Base.L
+    400066: Pinky Finger Base.R
+    400068: Pinky Tip Bone.L
+    400070: Pinky Tip Bone.L_end
+    400072: Pinky Tip Bone.R
+    400074: Pinky Tip Bone.R_end
+    400076: Player Mesh
+    400078: Ring Finger Base.L
+    400080: Ring Finger Base.R
+    400082: Ring Tip Bone.L
+    400084: Ring Tip Bone.L_end
+    400086: Ring Tip Bone.R
+    400088: Ring Tip Bone.R_end
+    400090: Thumb Tip Bone.L
+    400092: Thumb Tip Bone.L_end
+    400094: Thumb Tip Bone.R
+    400096: Thumb Tip Bone.R_end
+    400098: Trigger
+    400100: Trigger_end
+    400102: //RootNode
+    400104: Upper Arm.L
+    400106: Upper Arm.R
+    400108: Wrist.L
+    400110: Wrist.R
+    2300000: Gun
+    3300000: Gun
+    4300000: Gun
+    4300002: Player Mesh
+    7400000: Scene
+    9500000: //RootNode
+    13700000: Player Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
