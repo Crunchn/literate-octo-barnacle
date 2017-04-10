@@ -6,13 +6,18 @@ public class PlayerLook : MonoBehaviour {
     //camera rotations
     private float rotX = 0.0f;
     private float rotY = 0.0f;
+    //camera sens
     public float xMouseSensitivity = 30.0f;
     public float yMouseSensitivity = 30.0f;
+    //camera
+    public Transform playerView;
 
 
 	// Use this for initialization
 	void Start () {
-		
+        //kill cursor
+        Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.Locked;
 	}
 	
 	// Update is called once per frame
@@ -23,7 +28,10 @@ public class PlayerLook : MonoBehaviour {
 
         //rotate transform object (this)
         this.transform.rotation = Quaternion.Euler(0, rotY, 0);
-        this.transform.rotation = Quaternion.Euler(rotX, rotY, 0);
+        playerView.rotation = Quaternion.Euler(rotX, rotY, 0);
+
+        //clamp X rotation
+        rotX = Mathf.Clamp(rotX, -90, 90);
         
 	}
 }
